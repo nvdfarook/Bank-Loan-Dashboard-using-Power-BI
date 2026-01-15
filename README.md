@@ -101,10 +101,6 @@ The dashboard is designed with a **professional UI**, interactive filters, dynam
 
 ---
 
-## 📷 Dashboard Preview
-*(Screenshots included in the repository)*
-
----
 
 ## 🚀 How to Use
 1. Download the `.pb
